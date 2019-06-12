@@ -1,2 +1,3 @@
 # Othello-Game
-Othello With c#
+Oyun c# ile yazıldı. 
+İki kişiliktir.
