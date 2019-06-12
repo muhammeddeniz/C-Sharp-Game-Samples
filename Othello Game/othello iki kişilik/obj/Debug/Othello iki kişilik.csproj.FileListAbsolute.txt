@@ -1,0 +1,14 @@
+C:\Users\muhammed\Desktop\Othello iki kişilik\Othello iki kişilik\bin\Debug\Othello iki kişilik.exe.config
+C:\Users\muhammed\Desktop\Othello iki kişilik\Othello iki kişilik\bin\Debug\Othello iki kişilik.exe
+C:\Users\muhammed\Desktop\Othello iki kişilik\Othello iki kişilik\bin\Debug\Othello iki kişilik.pdb
+C:\Users\muhammed\Desktop\Othello iki kişilik\Othello iki kişilik\obj\Debug\Othello iki kişilik.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\Othello iki kişilik\Othello iki kişilik\obj\Debug\Othello iki kişilik.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\Othello iki kişilik\Othello iki kişilik\obj\Debug\Othello iki kişilik.exe
+C:\Users\muhammed\Desktop\Othello iki kişilik\Othello iki kişilik\obj\Debug\Othello iki kişilik.pdb
+C:\Users\muhammed\Desktop\Yeni klasör\Yeni klasör (2)\C# console\othello\Othello iki kişilik\Othello iki kişilik\bin\Debug\Othello iki kişilik.exe.config
+C:\Users\muhammed\Desktop\Yeni klasör\Yeni klasör (2)\C# console\othello\Othello iki kişilik\Othello iki kişilik\bin\Debug\Othello iki kişilik.exe
+C:\Users\muhammed\Desktop\Yeni klasör\Yeni klasör (2)\C# console\othello\Othello iki kişilik\Othello iki kişilik\bin\Debug\Othello iki kişilik.pdb
+C:\Users\muhammed\Desktop\Yeni klasör\Yeni klasör (2)\C# console\othello\Othello iki kişilik\Othello iki kişilik\obj\Debug\Othello iki kişilik.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\Yeni klasör\Yeni klasör (2)\C# console\othello\Othello iki kişilik\Othello iki kişilik\obj\Debug\Othello iki kişilik.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\Yeni klasör\Yeni klasör (2)\C# console\othello\Othello iki kişilik\Othello iki kişilik\obj\Debug\Othello iki kişilik.exe
+C:\Users\muhammed\Desktop\Yeni klasör\Yeni klasör (2)\C# console\othello\Othello iki kişilik\Othello iki kişilik\obj\Debug\Othello iki kişilik.pdb
