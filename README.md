@@ -1,3 +1,3 @@
-# Othello-Game
-Oyun c# ile yazıldı. 
-İki kişiliktir.
+# Games
+Othello (Reversi) (Türkçe)
+Glow Hockey
