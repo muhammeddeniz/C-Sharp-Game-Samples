@@ -1,0 +1,10 @@
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\bin\Debug\Glow Hockey.exe.config
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\bin\Debug\Glow Hockey.exe
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\bin\Debug\Glow Hockey.pdb
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\obj\Debug\Glow Hockey.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\obj\Debug\Glow_Hockey.Form1.resources
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\obj\Debug\Glow_Hockey.Properties.Resources.resources
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\obj\Debug\Glow Hockey.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\obj\Debug\Glow Hockey.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\obj\Debug\Glow Hockey.exe
+C:\Users\muhammed\Desktop\Glow Hockey\Glow Hockey\obj\Debug\Glow Hockey.pdb
