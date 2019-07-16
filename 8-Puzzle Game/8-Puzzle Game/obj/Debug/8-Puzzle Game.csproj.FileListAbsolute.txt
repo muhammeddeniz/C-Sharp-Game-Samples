@@ -1,0 +1,10 @@
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\bin\Debug\8-Puzzle Game.exe.config
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\bin\Debug\8-Puzzle Game.exe
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\bin\Debug\8-Puzzle Game.pdb
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\obj\Debug\8-Puzzle Game.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\obj\Debug\_8_Puzzle_Game.Form1.resources
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\obj\Debug\_8_Puzzle_Game.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\obj\Debug\8-Puzzle Game.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\obj\Debug\8-Puzzle Game.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\obj\Debug\8-Puzzle Game.exe
+C:\Users\Muhammed\Desktop\8-Puzzle Game\8-Puzzle Game\obj\Debug\8-Puzzle Game.pdb
